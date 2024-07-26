@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/task-management-api.git
+   git clone [https://github.com/yourusername/task-management-api.git](https://github.com/aashikbavirisetty/Advance-task-management.git)
    cd task-management-api
 
 The API provides the following GraphQL endpoints:
